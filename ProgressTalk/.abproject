@@ -1,0 +1,45 @@
+{
+  "ProjectName": "ProgressTalk",
+  "ProjectGuid": "7770b648-6006-4e0d-9902-05551f74ab26",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ProgressTalk",
+  "DisplayName": "ProgressTalk",
+  "Author": "",
+  "Description": "ProgressTalk",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{93669a69-3393-4c47-9615-709a91a3ad45}",
+  "WP8ProductID": "{4ebff8c8-85b6-4d13-919c-092264f4ac52}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ProgressTalk",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
