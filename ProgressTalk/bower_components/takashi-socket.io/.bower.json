@@ -1,0 +1,17 @@
+{
+  "name": "socket.io-client",
+  "main": [
+    "socket.io.js"
+  ],
+  "homepage": "https://github.com/endotakashi1992/takashi-socket.io",
+  "_release": "da09f1efdc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "da09f1efdca76e3094709f312e0f2bcacaa2cfbb"
+  },
+  "_source": "git://github.com/endotakashi1992/takashi-socket.io.git",
+  "_target": "*",
+  "_originalSource": "takashi-socket.io",
+  "_direct": true
+}
